@@ -11,3 +11,6 @@ persist.sys.wfd.virtual=0
 #FP
 ro.fingerprint.cleanup.unused=false
 
+#havoc
+ro.havoc.maintainer=HARD_ROCK83
+
