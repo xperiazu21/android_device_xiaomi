@@ -57,6 +57,8 @@
     <ctl name="RX1 Digital Volume" value="92" />
     <ctl name="RX2 Digital Volume" value="92" />
     <ctl name="RX3 Digital Volume" value="92" />
+    <ctl name="RX4 Digital Volume" value="92" />
+    <ctl name="RX5 Digital Volume" value="92" />
     <ctl name="IIR1 INP1 Volume" value="92" />
     <ctl name="IIR1 INP2 Volume" value="92" />
     <ctl name="IIR1 INP3 Volume" value="92" />
@@ -1628,6 +1630,15 @@
         <path name="quad-mic" />
     </path>
 
+      <path name="speaker-volume">
+	<ctl name="RX0 Digital Volume" value="90" />
+	<ctl name="RX7 Digital Volume" value="87" />
+    </path>
+
+     <path name="analog-volume">
+	<ctl name="HPHL Volume" value="15" />
+	<ctl name="HPHR Volume" value="15" />
+    </path>
 
 
     <path name="ADSP testfwk">
