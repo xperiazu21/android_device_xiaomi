@@ -19,7 +19,3 @@ debug.sf.disable_hwc=1
 
 #FP
 ro.fingerprint.cleanup.unused=false
-
-#havoc
-ro.havoc.maintainer=HARD_ROCK83
-
