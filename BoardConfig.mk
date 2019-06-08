@@ -24,7 +24,7 @@ BOARD_VENDORIMAGE_FILE_SYSTEM_TYPE := ext4
 TARGET_COPY_OUT_VENDOR := vendor
 
 # Kernel
-TARGET_KERNEL_CONFIG := oxygen_defconfig
+TARGET_KERNEL_CONFIG := pro_oxygen_defconfig
 
 # Lineage Hardware
 BOARD_HARDWARE_CLASS += \
